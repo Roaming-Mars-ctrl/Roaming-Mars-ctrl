@@ -2,8 +2,8 @@
 
 <h2>🔒 CyberSecurity Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Active Directory Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Cisco Packet Tracer (Cisco Networking Academy)</b>
+  - [CiscoPacketTracer]()
 
 <h2>📚 Certifications:</h2> 
 
