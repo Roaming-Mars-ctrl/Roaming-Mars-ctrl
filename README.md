@@ -7,7 +7,7 @@
 
 <h2>📚 Certifications:</h2> 
 
-- <b>
+- <b>CompTIA Security+ (Scheduled 2/20)
 
 
 <h2>Connect with me:</h2>
