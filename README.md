@@ -2,8 +2,8 @@
 
 <h2>🔒 CyberSecurity Projects:</h2>
 
-- <b>Wazuh SOC Automation </b>
-  - [Wazuh]()
+- <b>SOC Operations </b>
+  - [Wazuh Automation Project]()
 
 <h2>📚 Certifications:</h2> 
 
