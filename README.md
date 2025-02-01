@@ -2,8 +2,8 @@
 
 <h2>🔒 CyberSecurity Projects:</h2>
 
-- <b>Cisco Packet Tracer (Cisco Networking Academy)</b>
-  - [CiscoPacketTracer]()
+- <b>Wazuh SOC Automation </b>
+  - [Wazuh]()
 
 <h2>📚 Certifications:</h2> 
 
