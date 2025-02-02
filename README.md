@@ -4,6 +4,8 @@
 
 - <b>SOC Operations </b>
   - [Network Traffic Analysis with Wireshark](https://github.com/Roaming-Mars-ctrl/Network-Traffic-Analysis-with-Wireshark)
+- <b>Python </b>
+  - [Key Logger](https://github.com/Roaming-Mars-ctrl/Network-Traffic-Analysis-with-Wireshark)
 
 <h2>📚 Certifications:</h2> 
 
