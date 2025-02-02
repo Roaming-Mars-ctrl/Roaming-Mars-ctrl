@@ -3,7 +3,7 @@
 <h2>🔒 CyberSecurity Projects:</h2>
 
 - <b>SOC Operations </b>
-  - [Network Traffic Analysis with Wireshark]()
+  - [Network Traffic Analysis with Wireshark](https://github.com/Roaming-Mars-ctrl/Network-Traffic-Analysis-with-Wireshark)
 
 <h2>📚 Certifications:</h2> 
 
