@@ -11,7 +11,7 @@ I am a UTD Information Techonolgy student aspiring to become a SOC analyst. With
 - <b>SOC Operations </b>
   - [Network Traffic Analysis with Wireshark](https://github.com/Roaming-Mars-ctrl/Network-Traffic-Analysis-with-Wireshark)
 - <b>Python </b>
-  - [Key Logger](https://github.com/Roaming-Mars-ctrl/Network-Traffic-Analysis-with-Wireshark)
+  - [Key Logger](https://github.com/Roaming-Mars-ctrl/python-keylogger)
 
 <h2>Certifications:</h2> 
 
